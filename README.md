@@ -162,24 +162,47 @@ A role-aware goal-setting and achievement platform with approvals, quarterly tra
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanishk109&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishk109&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=FFFFFF&langs_count=8" alt="Top languages"/>
+<img
+  height="180"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanishk109&theme=tokyonight&animation=load&duration=2"
+  alt="Tanishk's GitHub statistics"
+/>
 
-<br/>
+<img
+  height="180"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanishk109&theme=tokyonight&animation=load&duration=2"
+  alt="Languages used across repositories"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishk109&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=67E8F9" alt="GitHub contribution streak"/>
+<br/><br/>
 
-<br/>
+<img
+  width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanishk109&theme=tokyonight&animation=draw&duration=2"
+  alt="Tanishk's GitHub contribution details"
+/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishk109&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<br/><br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishk109&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=67E8F9"
+  alt="GitHub contribution streak"
+/>
+
+<br/><br/>
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishk109&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
+  alt="GitHub contribution activity graph"
+/>
 
 </div>
-
----
 
 ## 🧩 LeetCode
 
