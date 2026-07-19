@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="36" viewBox="0 0 164 36" role="img" aria-label="Tailwind CSS">
+  <rect width="164" height="36" rx="0" fill="#06B6D4"/>
+  
+  
+        <path d="M10 22c3-7 7-7 10-4 2 2 4 2 7-2-3 7-7 7-10 4-2-2-4-2-7 2zm7-8c3-7 7-7 10-4 2 2 4 2 7-2-3 7-7 7-10 4-2-2-4-2-7 2z"
+              fill="#FFFFFF"/>
+  <text x="44" y="23" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700"
+        letter-spacing="1.1" fill="#FFFFFF">TAILWIND CSS</text>
+</svg>

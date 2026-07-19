@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="36" viewBox="0 0 162 36" role="img" aria-label="TensorFlow">
+  <rect width="162" height="36" rx="0" fill="#FF6F00"/>
+  
+  
+        <path d="M10 10l12-6 12 6-6 3-6-3-6 3-6-3zm12 2l5 3v15l-5 3V12zm-2 1v20l-5-3V16l5-3z"
+              fill="#FFFFFF"/>
+  <text x="45" y="23" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700"
+        letter-spacing="1.1" fill="#FFFFFF">TENSORFLOW</text>
+</svg>
