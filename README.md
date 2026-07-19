@@ -5,7 +5,7 @@
 <br/>
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=48&lines=Building+intelligent+products+from+idea+to+production;Full-Stack+Development+%7C+AI+%7C+IoT+%7C+Research;Turning+real-world+problems+into+usable+software"
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=48&lines=Building+intelligent+products+from+idea+to+production;Full-Stack+Development+%7C+Product+Management+%7C+Analytics;AI+%7C+IoT+%7C+Research+%7C+Product+Thinking;Turning+real-world+problems+into+usable+software"
   alt="Animated introduction"
 />
 
@@ -36,9 +36,9 @@
 
 ```ts
 const tanishk = {
-  role: "Software Developer",
+  careerTracks: ["Software Development", "Product Management", "Product Analytics"],
   education: "B.Tech CSE (IoT & Intelligent Systems) @ MUJ",
-  focus: ["Full-Stack Systems", "AI Integration", "IoT", "Product Thinking"],
+  focus: ["Full-Stack Systems", "Product Strategy", "Analytics", "AI Integration", "IoT"],
   building: ["Real-Time Platforms", "Research Tools", "Operational Systems"],
   learning: ["System Design", "Cloud Engineering", "Agentic AI"],
   approach: "Build useful products, not just demos"
@@ -47,11 +47,57 @@ const tanishk = {
 
 - 🎓 B.Tech CSE student specialising in **IoT and Intelligent Systems** at Manipal University Jaipur
 - 💻 **Software Development Engineer Intern — Zidio Development, May–July 2026**
-- 🧠 Interested in full-stack engineering, AI-integrated products, system design and research-oriented applications
+- 🧠 Interested in full-stack engineering, product strategy, analytics, AI-integrated products and research-oriented applications
 - 🏆 Dean’s List awardee for **6 consecutive semesters**
 - 🎓 Dr. TMA Pai Merit Scholarship recipient for **3 academic years**
 - 🚀 Convenor of **International Innovation Challenge 2.0**
 - 🤝 General Secretary, **IEEE WIE MUJ**
+
+---
+
+## 📦 Product Management & Analytics
+
+I work at the intersection of **technology, users and business outcomes**—translating real problems into structured product requirements, prioritised features and measurable workflows.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 Product Management
+
+- User research and problem discovery
+- Persona mapping and user-journey design
+- Product requirements and feature scoping
+- Prioritisation using **RICE** and **MoSCoW**
+- Roadmap thinking and stakeholder coordination
+- Success metrics and adoption hypotheses
+- Generative and Agentic AI product exploration
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Product & Business Analytics
+
+- Funnel and conversion analysis
+- Engagement, adoption and retention KPIs
+- A/B-testing frameworks and hypothesis design
+- Market and competitor research
+- Operational analysis using SQL and spreadsheets
+- Dashboard design and insight communication
+- Data-informed feature evaluation
+
+</td>
+</tr>
+</table>
+
+### 🔎 Product Thinking in My Projects
+
+- **MUJ Research Portal:** Defined three user personas, mapped student and faculty journeys, identified discovery and application friction, and proposed product-success metrics.
+- **NRCMS:** Modelled role hierarchies and operational workflows for patient records, rehabilitation progress, centre operations and distributed administration.
+- **IntellMeet:** Worked across feature scoping, API design, real-time collaboration, AI meeting intelligence and deployment decisions.
+- **International Innovation Challenge 2.0:** Led end-to-end planning and operations for a 36-hour event involving a 150+ member team and 1,200+ registrations.
+
+**Product toolkit:** `SQL` `Python` `Excel` `Google Sheets` `Figma` `Notion` `RICE` `MoSCoW` `Funnel Analysis` `A/B Testing`
 
 ---
 
@@ -162,47 +208,28 @@ A role-aware goal-setting and achievement platform with approvals, quarterly tra
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-  height="180"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanishk109&theme=tokyonight&animation=load&duration=2"
-  alt="Tanishk's GitHub statistics"
-/>
-
-<img
-  height="180"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanishk109&theme=tokyonight&animation=load&duration=2"
-  alt="Languages used across repositories"
-/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanishk109&theme=tokyonight" alt="Tanishk's GitHub statistics"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanishk109&theme=tokyonight" alt="Languages used across repositories"/>
 
 <br/><br/>
 
-<img
-  width="95%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanishk109&theme=tokyonight&animation=draw&duration=2"
-  alt="Tanishk's GitHub contribution details"
-/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanishk109&theme=tokyonight" alt="Tanishk's GitHub profile details"/>
 
 <br/><br/>
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishk109&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=67E8F9"
-  alt="GitHub contribution streak"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishk109&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=67E8F9" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishk109&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
-  alt="GitHub contribution activity graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishk109&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
+
+---
 
 ## 🧩 LeetCode
 
@@ -219,9 +246,9 @@ A role-aware goal-setting and achievement platform with approvals, quarterly tra
 ## 🌱 Current Focus
 
 ```text
-Building    Full-stack and intelligent applications
-Learning    System design, cloud engineering and Agentic AI
-Exploring   AI-integrated products and scalable architectures
+Building    Full-stack products and intelligent applications
+Learning    Product strategy, analytics, system design and Agentic AI
+Exploring   AI products, user behaviour and scalable architectures
 Practising  Data Structures and Algorithms in Java
 ```
 
