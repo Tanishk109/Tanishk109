@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-[![LinkedIn](./assets/linkedin-connect.svg)](https://www.linkedin.com/in/tanishk-mittal-b42719289/)
+[![LinkedIn](./assets/linkedin-connect.svg)](https://www.linkedin.com/in/tanishk-mittal-10112004pm/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rNNGImiLvA/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tqnishk.hehe/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishk10112004@gmail.com)
@@ -36,11 +36,34 @@
 
 ```ts
 const tanishk = {
-  careerTracks: ["Software Development", "Product Management", "Product Analytics"],
+  careerTracks: [
+    "Software Development",
+    "Product Management",
+    "Product Analytics"
+  ],
+
   education: "B.Tech CSE (IoT & Intelligent Systems) @ MUJ",
-  focus: ["Full-Stack Systems", "Product Strategy", "Analytics", "AI Integration", "IoT"],
-  building: ["Real-Time Platforms", "Research Tools", "Operational Systems"],
-  learning: ["System Design", "Cloud Engineering", "Agentic AI"],
+
+  focus: [
+    "Full-Stack Systems",
+    "Product Strategy",
+    "Analytics",
+    "AI Integration",
+    "IoT"
+  ],
+
+  building: [
+    "Real-Time Platforms",
+    "Research Tools",
+    "Operational Systems"
+  ],
+
+  learning: [
+    "System Design",
+    "Cloud Engineering",
+    "Agentic AI"
+  ],
+
   approach: "Build useful products, not just demos"
 };
 ```
@@ -74,6 +97,7 @@ I work at the intersection of **technology, users and business outcomes**—tran
 - Generative and Agentic AI product exploration
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📈 Product & Business Analytics
@@ -157,6 +181,7 @@ A role-aware goal-setting and achievement platform with approvals, quarterly tra
 
 <details open>
 <summary><b>⚡ Languages</b></summary>
+
 <br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -170,6 +195,7 @@ A role-aware goal-setting and achievement platform with approvals, quarterly tra
 
 <details open>
 <summary><b>🎨 Frontend</b></summary>
+
 <br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -180,6 +206,7 @@ A role-aware goal-setting and achievement platform with approvals, quarterly tra
 
 <details open>
 <summary><b>⚙️ Backend, Databases & Real-Time Systems</b></summary>
+
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -193,6 +220,7 @@ A role-aware goal-setting and achievement platform with approvals, quarterly tra
 
 <details open>
 <summary><b>🤖 AI, DevOps & Tools</b></summary>
+
 <br/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -212,20 +240,40 @@ A role-aware goal-setting and achievement platform with approvals, quarterly tra
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanishk109&theme=tokyonight" alt="Tanishk's GitHub statistics"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanishk109&theme=tokyonight" alt="Languages used across repositories"/>
+<img
+  height="180"
+  src="./profile-summary-card-output/tokyonight/3-stats.svg"
+  alt="Tanishk's GitHub statistics"
+/>
+
+<img
+  height="180"
+  src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+  alt="Languages used across repositories"
+/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanishk109&theme=tokyonight" alt="Tanishk's GitHub profile details"/>
+<img
+  width="95%"
+  src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
+  alt="Tanishk's GitHub profile details"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishk109&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=67E8F9" alt="GitHub contribution streak"/>
+<img
+  src="https://streak-stats.demolab.com?user=Tanishk109&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=67E8F9"
+  alt="Tanishk's GitHub contribution streak"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishk109&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishk109&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+  alt="Tanishk's GitHub contribution activity graph"
+/>
 
 </div>
 
@@ -236,7 +284,10 @@ A role-aware goal-setting and achievement platform with approvals, quarterly tra
 <div align="center">
 
 <a href="https://leetcode.com/u/rNNGImiLvA/">
-  <img src="https://leetcard.jacoblin.cool/rNNGImiLvA?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="Tanishk's LeetCode statistics"/>
+  <img
+    src="https://leetcard.jacoblin.cool/rNNGImiLvA?theme=dark&font=JetBrains%20Mono&ext=heatmap"
+    alt="Tanishk's LeetCode statistics"
+  />
 </a>
 
 </div>
@@ -272,7 +323,7 @@ Open to software-development opportunities, technical collaborations, research p
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishk-mittal-b42719289/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishk-mittal-10112004pm/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rNNGImiLvA/)
 [![Instagram](https://img.shields.io/badge/Instagram-@tqnishk.hehe-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tqnishk.hehe/)
 [![Email](https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishk10112004@gmail.com)
